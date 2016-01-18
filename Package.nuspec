@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SeleniumExtensions</id>
+    <version>1.0.0</version>
+    <authors>Wm.Barrett</authors>
+    <owners>Wm.Barrett</owners>
+    <licenseUrl>https://github.com/wbsimms/SeleniumExtensions/blob/develop/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/wbsimms/SeleniumExtensions</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simple Selenium Extensions</description>
+    <releaseNotes>First Release</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Selenium Extensions</tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
